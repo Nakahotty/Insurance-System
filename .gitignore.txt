@@ -1,0 +1,6 @@
+/HOMEWORK_ENSURANCE.sln
+/HOMEWORK_ENSURANCE.vcxproj
+/HOMEWORK_ENSURANCE.vcxproj.filters
+/HOMEWORK_ENSURANCE.vcxproj.user
+.vs
+Debug
